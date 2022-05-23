@@ -41,3 +41,4 @@ Chosen option: "madr", because flexible. easy to use. close to the project and y
 * https://adr.github.io/
 * https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions
 * https://github.com/npryce/adr-tools
+* https://github.com/adr/adr-manager
